@@ -46,7 +46,7 @@ The preferred way to install this extension is through [composer](http://getcomp
 To install, either run
 
 ```zsh
-$ composer require klsheng/myinvois-php-sdk "*"
+$ composer require keehow/myinvois-php-sdk "*"
 ```
 or add
 ```zsh
