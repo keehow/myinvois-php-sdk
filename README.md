@@ -50,7 +50,7 @@ $ composer require klsheng/myinvois-php-sdk "*"
 ```
 or add
 ```zsh
-"klsheng/myinvois-php-sdk": "*"
+"keehow/myinvois-php-sdk": "*"
 ```
 to the ```require``` section of your `composer.json` file.
 
